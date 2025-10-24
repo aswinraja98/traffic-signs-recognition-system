@@ -1,0 +1,43 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node
+node_modules/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.pb
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+.env.*
+
+# Build
+build/
+dist/
+
+# Misc
+*.swp
+*.swo
+
+# VSCode
+.vscode/
