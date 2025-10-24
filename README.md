@@ -7,6 +7,7 @@
 A production-ready traffic sign recognition system using deep learning (CNN) and a modern Next.js/Tailwind CSS frontend. Built for robust, real-time traffic sign classification and demo presentation.
 
 ## 🚗 Interactive Demo
+![Taffic Signs Recognition DEMO GIF](https://github.com/user-attachments/assets/d97b46ee-ebd1-4ef2-a862-288d568f1dbb)
 
 Try the live demo interface to see the recognition system in action! The demo provides a user-friendly web interface where you can test images and get instant predictions.
 
